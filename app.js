@@ -44,13 +44,3 @@ function tweetit(){
 
 
 console.log('Twitter Bot Starting');
-// var parameters1 = { q: 'froy', count: 2 };
-//
-// T.get('search/tweets', parameters1,gotData);
-//
-// function gotData(err,data,response){
-//   var tweets=data.statuses;
-//   for (var i=0; i< tweets.length;i++){
-//     console.log(tweets[i].text);
-//   }
-// }
